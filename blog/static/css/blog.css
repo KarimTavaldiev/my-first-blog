@@ -1,5 +1,5 @@
 h1 a {
-    color: #C31FDE;
+    color: #C63;
 }
 body {
     padding-left: 15px;
@@ -12,7 +12,7 @@ body {
 }
 
 .page-header h1, .page-header h1 a, .page-header h1 a:visited, .page-header h1 a:active {
-    color: #ffffff;
+    color: #C63;
     font-size: 36pt;
     text-decoration: none;
 }
